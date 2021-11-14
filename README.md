@@ -1,9 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">,I am suraj banerjee
-- 👨‍🎓 I'm a technical graduate
-- 🛰 Actively searching : Interested in any kind of Data related Internship. 
+- 👨‍🎓 I'm a Tech-graduate
+- 🛰 Actively searching : Interested in any kind of Data related opportunity. 
 - 🌱 HackerRank, Python[5*(⭐)] / Java[5*(⭐)] 
 - 📒 Active Reader 
-- 📫 Let's connect : <a href="https://twitter.com/Suraj_1m"> @Suraj_1m🐤 </a>
+- 📫 Tech-Talk : <a href="https://stackoverflow.com/users/12947226/suraj-0o0"> ⛓🧱Stack Overflow </a>  |  <a href="https://twitter.com/Suraj_1m"> Twitter🐤 </a> 
 - ⚡ Fun fact: I hate the Algorithm.
  
  
