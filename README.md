@@ -1,5 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">,I am suraj banerjee
 
+- 👨‍💻 Work Experience with ETL (Extract. Transform and load) with Tools like - Informatica 
 - 👨‍🎓 I'm a CS Graduate who is intrested to learning and growing toward Data. 
 - 🌱 HackerRank: Python[5*(⭐)] | 30 days of Code | Learning More🛒.
 - 📒 Active Reader: Python Crash Course, 2nd Edition - Eric Matthes | Data structure and Algorithm | Physicology Books For self Learning 
