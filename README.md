@@ -11,7 +11,7 @@
  
 <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" width="100px"> <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" width="100px" >  <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" width="100px" > <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg" width="100px" > <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/oracle/oracle-original.svg" width="100px">
 <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/unix/unix-original.svg" width="100px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="100px"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="100px"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" width="100px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="100px"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="100px"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" width="100px"> <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original-wordmark.svg" width="100px">
 
 ## My GitHub Stats:
 
