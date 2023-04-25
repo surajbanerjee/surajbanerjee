@@ -6,7 +6,7 @@
 <dt>📒 I am an Active Reader, with a focus on books such as : </dt>
 <dd> Python Crash Course, 2nd Edition - Eric Matthes | Data structure and Algorithm | Physicology Books For self Learning | Data Warehousing in the real world (Pearson Education) </dd>
  <dt>🧐 Current Learning :</dt> <dd> <a href="https://partner.cloudskillsboost.google/public_profiles/11ae7306-da36-401e-aef1-06d4143f0d51"> ⛓Google Cloud Associate </a></dd> </dl>
- <dt> 📫 Showing some Enthusiasm Here :</dt> <dd><a href="https://stackoverflow.com/users/12947226/suraj-0o0"> ⛓🧱Stack Overflow </a>  |  <a href="https://twitter.com/Suraj_1m"> Twitter🐤 </a> </dd> </dl>
+ <dt> 📫 Showing some Enthusiasm Here :</dt> <dd><a href="https://stackoverflow.com/users/12947226/suraj-0o0"> ⛓🧱Stack Overflow </a>  |  <a href="https://twitter.com/Suraj_1m"> Twitter🐤 </a> | <a href="https://www.hackerrank.com/surajbanerjee?hr_r=1"> HackerRank </a> </dd> </dl>
  
  ## 🧧 Toolbox 
  
