@@ -2,7 +2,8 @@
 
 <dl><dt> 👨‍🎓 My Education </dt> <dd> As a computer science graduate currently pursuing a Master's degree in Computer Applications, I have built a strong foundation in both theoretical and practical aspects of the field.</dd>
 <dt> 👨‍💻 My Profession </dt> <dd> 💻 With nearly 3 years in the IT industry, I specialize in Data Warehousing and ETL (Extract, Transform, Load) using tools such as Informatica Power Center. My expertise lies in error analysis within the Healthcare Industry, SQL query development, and Python scripting.
-🚀 Innovative Problem Solver:
+
+ 🚀 Innovative Problem Solver:
 I've successfully collaborated with cross-functional teams to meet complex business requirements, suggesting and implementing over 3 automation ideas that streamlined processes and saved valuable time. My proactive approach ensures that high-priority issues are resolved promptly and efficiently.
 
 📊 ETL & Automation Enthusiast:
