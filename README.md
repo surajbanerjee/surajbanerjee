@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">,I'm Suraj Banerjee
 
-<dl><dt> 👨‍🎓 My Education </dt> <dd> As a computer science graduate currently pursuing a Master's degree in Computer Applications, I have built a strong foundation in both theoretical and practical aspects of the field.</dd>
-<dt> 👨‍💻 My Profession </dt> <dd> 💻 With nearly 3 years in the IT industry, I specialize in Data Warehousing and ETL (Extract, Transform, Load) using tools such as Informatica Power Center. My expertise lies in error analysis within the Healthcare Industry, SQL query development, and Python scripting.
+<dl><dt> 👨‍🎓 My Education </dt> <dd> I have completed a Master of Computer Application (MCA) from LPU & Bachelor of Computer Science from VIVA collage </dd>
+<dt> 👨‍💻 My Profession </dt> <dd> 💻 With 3 years in the software industry, I specialize in Data Warehousing and ETL (Extract, Transform, Load) using tools such as IICS/Informatica Power Center. My expertise lies in error analysis within the Healthcare Industry, SQL query development, and Python scripting.
 
  🚀 Innovative Problem Solver:
 I've successfully collaborated with cross-functional teams to meet complex business requirements, suggesting and implementing over 3 automation ideas that streamlined processes and saved valuable time. My proactive approach ensures that high-priority issues are resolved promptly and efficiently.
